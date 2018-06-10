@@ -1,0 +1,53 @@
+.RouteFilter {
+  /* border: 1px solid #ccc;
+  box-shadow: 5px 5px 5px #eee; */
+  margin: 20px auto;
+  padding: 20px;
+  /* border-radius: 8px;
+  background-color:#e0f2f1; */
+  width: 50%;
+}
+
+.rider-driver {
+  margin: auto;
+}
+
+.filter-selection {
+  color: white;
+  border: 3px solid #64b5f6;
+  background: #64b5f6;
+  display: inline-block;
+  padding: 8px;
+  border-radius: 8px;
+  margin-left: 10px;
+  margin-right: auto;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: white;
+  color: black;
+  border-color: #64b5f6;
+}
+
+.filter-days-range {
+  width: 100%;
+}
+
+.slider{
+  height: auto;
+}
+
+.btn.add {
+  width: 20%;
+}
+
+.btn.addNew {
+  margin: auto;
+  padding: 1%;
+  width: 40%;
+  
+}
+
+
+

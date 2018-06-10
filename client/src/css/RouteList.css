@@ -1,0 +1,8 @@
+.RouteList {
+  width: 80%;
+  border: 1px solid #64b5f6;
+  box-shadow: 5px 5px 5px #64b5f6;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+}
